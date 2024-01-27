@@ -1,0 +1,13 @@
+# 忽略文件
+model/**
+__pycache__/
+runs/**
+tb_runs/**
+model_uformer/**
+Uformer_runs/**
+nohup**
+image/**
+image_multi/**
+KD_decoder_model/**
+checkpoint/**
+tensorboard_log/**
