@@ -1,5 +1,5 @@
 # StegFormer: Rebuilding the Glory of the Autoencoder-Based Steganography
-The official pytorch implementation of the paper [StegFormer: Rebuilding the Glory of the Autoencoder-Based Steganography](https://github.com/Yang-Liu1082/InvDN)
+The official pytorch implementation of the paper [StegFormer: Rebuilding the Glory of the Autoencoder-Based Steganography](https://github.com/aoli-gei/StegFormer)
 
 **Xiao Ke, Huanqi Wu, Wenzhong Guo**
 
