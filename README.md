@@ -1,4 +1,4 @@
-# StegFormer: Rebuilding the Glory of the Autoencoder-Based Steganography
+# StegFormer: Rebuilding the Glory of the Autoencoder-Based Steganography (AAAI-2024)
 The official pytorch implementation of the paper [StegFormer: Rebuilding the Glory of the Autoencoder-Based Steganography](https://github.com/aoli-gei/StegFormer)
 
 **Xiao Ke, Huanqi Wu, Wenzhong Guo**
