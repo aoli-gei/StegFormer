@@ -18,7 +18,7 @@ class Args:
     warm_up_lr_init = 5e-6
 
     # dataset
-    DIV2K_path = '/home/whq135/dataset'
+    DIV2K_path = '/home/whq135/dataset'     # /home/whq135/dataset/DIV2K_train_HR
     single_batch_size = 12
     multi_batch_szie = 8 
     multi_batch_iteration = (num_secret+1)*8
