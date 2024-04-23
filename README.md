@@ -3,13 +3,14 @@
 
 The official pytorch implementation of the paper [StegFormer: Rebuilding the Glory of the Autoencoder-Based Steganography](https://github.com/aoli-gei/StegFormer).
 
-[[Project Page](https://aoli-gei.github.io/StegFormer.github.io/)]
+[[Project Page](https://aoli-gei.github.io/StegFormer.github.io/)] [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28051)] [[Pretrain_model](https://drive.google.com/drive/folders/1L__astCCgm2GlQU-YaxZYTIzEnABdKEc?usp=sharing)]
 
 ## Abstract
 Image hiding aims to conceal one or more secret images within a cover image of the same resolution. Due to strict capacity requirements, image hiding is commonly called large-capacity steganography. In this paper, we propose StegFormer, a novel autoencoder-based image-hiding model. StegFormer can conceal one or multiple secret images within a cover image of the same resolution while preserving the high visual quality of the stego image. In addition, to mitigate the limitations of current steganographic models in real-world scenarios, we propose a normalizing training strategy and a restrict loss to improve the reliability of the steganographic models under realistic conditions. Furthermore, we propose an efficient steganographic capacity expansion method to increase the capacity of steganography and enhance the efficiency of secret communication. Through this approach, we can increase the relative payload of StegFormer to 96 bits per pixel without any training strategy modifications. Experiments demonstrate that our StegFormer outperforms existing state-of-the-art (SOTA) models. In the case of single-image steganography, there is an improvement of more than 3 dB and 5 dB in PSNR for secret/recovery image pairs and cover/stego image pairs.
 
 ## News
 - 2024.2.29: update README
+- 2024.4.23: update pretrain model
 
 ## How to train StegFormer
 - Please download the training dataset: [DIV2K](https://data.vision.ee.ethz.ch/cvl/DIV2K/)
@@ -29,5 +30,8 @@ If you have any questions, please contact [wuhuanqi135@gmail.com](wuhuanqi135@gm
 ## Citation
 If you find this work helps you, please cite:
 ```
-baba
+Ke, Xiao, Huanqi Wu, and Wenzhong Guo. 2024.
+“StegFormer: Rebuilding the Glory of Autoencoder-Based Steganography”.
+Proceedings of the AAAI Conference on Artificial Intelligence 38 (3):2723-31.
+https://doi.org/10.1609/aaai.v38i3.28051.
 ```
