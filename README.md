@@ -29,9 +29,13 @@ If you have any questions, please contact [wuhuanqi135@gmail.com](wuhuanqi135@gm
 
 ## Citation
 If you find this work helps you, please cite:
-```
-Ke, Xiao, Huanqi Wu, and Wenzhong Guo. 2024.
-“StegFormer: Rebuilding the Glory of Autoencoder-Based Steganography”.
-Proceedings of the AAAI Conference on Artificial Intelligence 38 (3):2723-31.
-https://doi.org/10.1609/aaai.v38i3.28051.
+```bibtex
+@inproceedings{ke2024stegformer,
+  title={StegFormer: Rebuilding the Glory of Autoencoder-Based Steganography},
+  author={Ke, Xiao and Wu, Huanqi and Guo, Wenzhong},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={38},
+  number={3},
+  pages={2723--2731},
+  year={2024}
 ```
